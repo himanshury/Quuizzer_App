@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "630711850528",
+    "project_id": "quuizzer-1cf8c",
+    "storage_bucket": "quuizzer-1cf8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630711850528:android:45cf94d0bc986c742d8e45",
+        "android_client_info": {
+          "package_name": "hy.himanshu.quuizzer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630711850528-nsjfi2ukmehgcc516t9i8g9hnj1ecgfe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1NstV9kktXp2H8PaGJFrPH7TtoJdkkBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630711850528-nsjfi2ukmehgcc516t9i8g9hnj1ecgfe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
